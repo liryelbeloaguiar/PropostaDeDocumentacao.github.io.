@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Documentação de Projeto - De Liryel"
+                 start-page="DocumentacaoDoSistema.md">
+
+    <toc-element topic="DocumentacaoDoSistema.md"/>
+    <toc-element topic="DiagramadeCasosdeUso.md"/>
+    <toc-element topic="DiagramaDeClasses.md"/>
+    <toc-element topic="DiagramaDeSequencia.md"/>
+    <toc-element topic="DiagramaDeAtividades.md"/>
+    <toc-element topic="DiagramaDeComponentes.md"/>
+    <toc-element topic="DiagramaDeEstados.md"/>
+    <toc-element topic="DiagramaDeImplantacao.md"/>
+
+</instance-profile>
